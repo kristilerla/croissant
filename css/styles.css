@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+    padding: 20px 20px;
+}
+
+.links {
+    text-align: center;
+}
+h1, h3 {
+    text-align: center;
+}
+img {
+
+}
+.container
+{
+    justify-content: space-evenly;
+}
+
